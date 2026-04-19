@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pack_github_pages_ota_v1",
+    "name": "GitHub Pages OTA",
+    "items": [
+      {
+        "id": "gh_ota_puzzle_1",
+        "kind": "puzzle",
+        "title": "数字塔",
+        "body": "用 1–9 各一次填入三行，使第一行三位数 + 第二行三位数 = 第三行四位数（若需要可进位）。是否存在解？",
+        "tags": ["remote", "math"],
+        "isQuiet": true,
+        "isLowBrightness": true
+      },
+      {
+        "id": "gh_ota_story_1",
+        "kind": "microStory",
+        "title": "电梯里的一分钟",
+        "body": "他盯着楼层数字上升，想起从未寄出的那封信。门开时，他按住开门键多停了一秒。",
+        "tags": ["remote", "moment"],
+        "isQuiet": true,
+        "isLowBrightness": true
+      },
+      {
+        "id": "gh_ota_riddle_1",
+        "kind": "riddle",
+        "title": "看不见的路",
+        "body": "越走得快越看不见，放慢才若隐若现。是什么？（提示：与屏幕和眼睛有关）",
+        "tags": ["remote"],
+        "isQuiet": true,
+        "isLowBrightness": true
+      },
+      {
+        "id": "gh_ota_office_1",
+        "kind": "officeSafe",
+        "title": "专注前 10 秒",
+        "body": "关掉一个通知入口，只把当前一件事写在一行便签上；做完再处理消息。",
+        "tags": ["remote", "focus"],
+        "isQuiet": true,
+        "isLowBrightness": true
+      }
+    ]
+  }
+]
